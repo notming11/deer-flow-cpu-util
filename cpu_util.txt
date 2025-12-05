@@ -1,121 +1,58 @@
 CPU Usage: 0.0%
-CPU Usage: 10.9%
+Memory Usage: 56.15625 MB
+CPU Usage: 76.4%
+Memory Usage: 238.40625 MB
 CPU Usage: 0.0%
+Memory Usage: 238.40625 MB
 CPU Usage: 0.0%
+Memory Usage: 238.40625 MB
 CPU Usage: 0.0%
+Memory Usage: 238.40625 MB
 CPU Usage: 0.0%
+Memory Usage: 238.40625 MB
 CPU Usage: 0.0%
+Memory Usage: 238.40625 MB
 CPU Usage: 0.0%
+Memory Usage: 238.40625 MB
 CPU Usage: 0.0%
+Memory Usage: 238.40625 MB
 CPU Usage: 0.0%
+Memory Usage: 238.40625 MB
 CPU Usage: 0.0%
+Memory Usage: 238.40625 MB
 CPU Usage: 0.0%
+Memory Usage: 231.30078125 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
+Memory Usage: 120.26171875 MB
 CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-CPU Usage: 0.0%
-Average CPU Usage: 0.09083333333333334%
+Memory Usage: 120.26171875 MB

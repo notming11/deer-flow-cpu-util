@@ -17,14 +17,17 @@ for i in range(len(deerflow)):
     ps_proc.append(psutil.Process(deerflow[i].pid))
 
 
-average_cpu_usage = 0
-count = 0
+cpu_values = []
+memory_values = []
 while any(p.poll() is None for p in deerflow):
     cpu_usage = sum(proc.cpu_percent(interval=None) for proc in ps_proc)
     print(f"CPU Usage: {cpu_usage}%", file = cpu_util_file)
-    average_cpu_usage += cpu_usage
-    count += 1
+    cpu_values.append(cpu_usage)
+    memory_usage = sum(proc.memory_info().rss for proc in ps_proc) / (1024 * 1024)  # in MB
+    print(f"Memory Usage: {memory_usage} MB", file = cpu_util_file)
+    memory_values.append(memory_usage)
     time.sleep(1)
     
-average_cpu_usage /= count
-print(f"Average CPU Usage: {average_cpu_usage}%", file = cpu_util_file)
+
+print(f"Average CPU Usage: {sum(cpu_values) / len(cpu_values)}%", file = cpu_util_file)
+print(f"Maximum Memory Usage: {max(memory_values)} MB", file = cpu_util_file)
